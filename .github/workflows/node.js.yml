@@ -28,4 +28,4 @@ jobs:
     - run: npm install
     - run: npm install express
     - run: npm install nodemon
-    - run: nodemon start.js
+    - run: npm start
